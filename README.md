@@ -1,7 +1,7 @@
 ### Olá! Eu sou [Caio R R Viera](https://www.linkedin.com/in/caiorvieira/), tenho 23 anos e sou estudante de Desenvolvimento Web na Trybe. 👋
 
 ##
-<div>
+<div style="vertical-align: middle">
   <img height="180em" width = "49%" style="display: inline_block" src="https://github-readme-stats.vercel.app/api?username=CaioRobs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width = "50%" style="display: inline_block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRobs&layout=compact&langs_count=7&theme=dark"/>
 </div>
