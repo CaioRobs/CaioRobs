@@ -2,9 +2,8 @@
 
 ##
 <div>
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=CaioRobs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRobs&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=CaioRobs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRobs&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
