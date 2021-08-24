@@ -1,4 +1,4 @@
-### Olá! Eu sou [Caio R R Viera](https://www.linkedin.com/in/caiorvieira/), tenho 23 anos e sou estudante de Desenvolvimento Web na Trybe :rocket:
+### Olá! Eu sou [Caio R R Viera](https://www.linkedin.com/in/caiorrvieira/), tenho 23 anos e sou estudante de Desenvolvimento Web na Trybe :rocket:
 
 ##
 <div style="vertical-align: middle">
