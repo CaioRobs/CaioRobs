@@ -3,7 +3,7 @@
 </head>
 
 ### Olá! Eu sou [Caio R R Viera](https://www.linkedin.com/in/caiorrvieira/), tenho 23 anos e sou estudante de Desenvolvimento Web na Trybe :rocket: ###
-<!--  before include_all_commits -->
+
 <div style="vertical-align: middle">
   <img width="49.75%" src="https://github-readme-stats.vercel.app/api?username=CaioRobs&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple"/>
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRobs&layout=compact&langs_count=7&theme=midnight-purple"/>
