@@ -1,4 +1,4 @@
-<h3 align="center"> Olá! Eu sou <a href="https://www.linkedin.com/in/caiorrvieira/">Caio R. R. Viera</a>, tenho 23 anos e sou estudante de Desenvolvimento Web na Trybe :rocket: </h3>
+<h3 align="center"> Olá! Eu sou <a href="https://www.linkedin.com/in/caiorrvieira/">Caio R. R. Viera</a>, tenho 23 anos e sou estudante de Análise e Desenvolvimento de Sistemas no IESB e Desenvolvimento Web na Trybe :rocket: </h3>
 
 <div style="vertical-align: middle">
   <img width="49.75%" src="https://github-readme-stats.vercel.app/api?username=CaioRobs&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple"/>
