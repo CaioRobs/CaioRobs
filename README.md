@@ -24,7 +24,9 @@
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="Slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
 </div>
-<br>
+
+##
+
 <div style="vertical-align: middle">
   <img width="49.75%" src="https://github-readme-stats.vercel.app/api?username=CaioRobs&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple"/>
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRobs&layout=compact&langs_count=7&theme=midnight-purple"/>
