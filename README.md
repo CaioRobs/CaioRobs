@@ -31,9 +31,3 @@
 </div>
   
 ##
-
-<div align="center">
-  <img align="center" alt="Snake animation" src="https://github.com/CaioRobs/CaioRobs/blob/output/github-contribution-grid-snake.svg">
-</div>
-
-
