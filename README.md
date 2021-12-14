@@ -2,7 +2,7 @@
 <h3 align="left"> My name is <strong><a href="https://www.linkedin.com/in/caiorrvieira/">Caio R. R. Viera</a></strong>, 23 years old, from <strong>Brazil</strong>. 🇧🇷<br> Currently studying <strong>System Analysis and Development</strong> at IESB and <strong>Web Development</strong> at Trybe. :rocket: </h3>
 <h2> On my way to become a <strong>Full Stack</strong> developer. :man_technologist:</h2>
 
-<div align="left">
+<div>
   <div>
     <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
