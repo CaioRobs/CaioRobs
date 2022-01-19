@@ -20,11 +20,12 @@
   <div>
     <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+    <img align="center" alt="MariaDB" height="30" width="40" src="https://user-images.githubusercontent.com/84696473/132716998-aa92333e-9aac-4c0f-b03f-d93ff87b4458.png">
+    <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   </div>
   <br />
   <div>
-    <img align="center" alt="MariaDB" height="30" width="40" src="https://user-images.githubusercontent.com/84696473/132716998-aa92333e-9aac-4c0f-b03f-d93ff87b4458.png">
-    <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+    <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   </div>
   <br />
   <div>
