@@ -1,5 +1,5 @@
 <h1>Hello!</h1>
-<h3 align="left"> My name is <strong><a href="https://www.linkedin.com/in/caiorrvieira/">Caio R. R. Viera</a></strong>, 23 years old, from <strong>Brazil</strong>. 🇧🇷<br> Currently studying <strong>System Analysis and Development</strong> at IESB and <strong>Web Development</strong> at Trybe. :rocket: </h3>
+<h3 align="left"> My name is <strong><a href="https://www.linkedin.com/in/caiorrvieira/">Caio R. R. Viera</a></strong>, 23 years old, from <strong>Brazil</strong>. 🇧🇷<br> Currently studying <strong>System Analysis and Development</strong> at IESB and <strong>Web Development</strong> at Trybe, while working half-time as a Front-End Jr Developer at Fan.Projects :rocket: </h3>
 <h2> On my way to become a <strong>Full Stack</strong> developer. :man_technologist:</h2>
 
 <div>
