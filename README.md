@@ -39,8 +39,8 @@
 ##
 
 <div>
-  <img width="49.5%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRobs&layout=compact&langs_count=7&theme=midnight-purple"/>
   <img width="49.5%" height="100%"src="https://github-readme-stats.vercel.app/api?username=CaioRobs&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple"/>
+  <img width="49.5%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRobs&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 ##
