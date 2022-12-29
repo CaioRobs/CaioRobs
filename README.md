@@ -2,7 +2,9 @@
 <h3 align="left">
   My name is <strong><a href="https://www.linkedin.com/in/caiorrvieira/">Caio R. R. Viera</a></strong>, 24 years old, from <strong>Brazil</strong>. 🇧🇷
   <br>
-  Currently working as a Back-End Developer at <strong><a href="https://mutant.com.br/">Mutant</a></strong> while studying <strong>System Analysis and   Development</strong> at IESB. Graduated in <strong>Web Development</strong> at <strong><a href="https://www.betrybe.com/">Trybe</a></strong> :man_technologist: :rocket: 
+  Currently working as a Back-End Developer at <strong><a href="https://mutant.com.br/">Mutant</a></strong> while studying <strong>System Analysis and Development</strong> at IESB.
+  <br>
+  Graduated in <strong>Web Development</strong> at <strong><a href="https://www.betrybe.com/">Trybe</a></strong> :man_technologist: :rocket: 
 </h3>
 
 <div>
