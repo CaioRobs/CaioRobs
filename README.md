@@ -6,7 +6,7 @@
   Graduated in <strong>Web Development</strong> at <strong><a href="https://www.betrybe.com/">Trybe</a></strong> :man_technologist: :rocket: 
   <br>
   <br>
-  Currently working as a Back-End Developer at <strong><a href="https://happmobi.com.br//">Happmobi</a></strong> while studying <strong>System Analysis and Development</strong> at IESB.
+  Currently working as a Back-End Developer at <strong><a href="https://happmobi.com.br/">Happmobi</a></strong> while studying <strong>System Analysis and Development</strong> at IESB.
 </h3>
 
 <h4>My Stack:</h4>
