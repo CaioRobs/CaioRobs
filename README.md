@@ -1,6 +1,6 @@
 <h1>Hello!</h1>
 <h3 align="left">
-  My name is <strong><a href="https://www.linkedin.com/in/caiorrvieira/" target="_blank">Caio R. R. Viera</a></strong>, 26 years old, from <strong>Brazil</strong>. 🇧🇷
+  My name is <strong><a href="https://www.linkedin.com/in/caiorrvieira/" target="_blank">Caio R. R. Viera</a></strong>, 26 years old, from <strong>Brazil</strong>.
   <br>
   <br>
   Graduated in <strong>System Analysis and Development</strong> at <strong><a href="https://www.iesb.br" target="_blank">IESB</a>a</strong>strong> and <strong>Web Development</strong> at <strong><a href="https://www.betrybe.com/" target="_blank">Trybe</a></strong> :man_technologist: :rocket: 
