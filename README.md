@@ -8,9 +8,9 @@
   <br>
   Currently working as a Back-End Developer at <strong>
 <!--     <a href="https://happmobi.com.br/" target="_blank"> -->
-  Happmobi 
+  SysManager. 
 <!--   </a> -->
-  </strong> while studying 
+  </strong>
 </h3>
 
 <h4>My Stack:</h4>
