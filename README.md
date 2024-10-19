@@ -1,12 +1,16 @@
 <h1>Hello!</h1>
 <h3 align="left">
-  My name is <strong><a href="https://www.linkedin.com/in/caiorrvieira/" target="_blank">Caio R. R. Viera</a></strong>, 24 years old, from <strong>Brazil</strong>. 🇧🇷
+  My name is <strong><a href="https://www.linkedin.com/in/caiorrvieira/" target="_blank">Caio R. R. Viera</a></strong>, 26 years old, from <strong>Brazil</strong>. 🇧🇷
   <br>
   <br>
-  Graduated in <strong>Web Development</strong> at <strong><a href="https://www.betrybe.com/" target="_blank">Trybe</a></strong> :man_technologist: :rocket: 
+  Graduated in <strong>System Analysis and Development</strong> at <strong><a href="https://www.iesb.br" target="_blank">IESB</a>a</strong>strong> and <strong>Web Development</strong> at <strong><a href="https://www.betrybe.com/" target="_blank">Trybe</a></strong> :man_technologist: :rocket: 
   <br>
   <br>
-  Currently working as a Back-End Developer at <strong><a href="https://happmobi.com.br/" target="_blank">Happmobi</a></strong> while studying <strong>System Analysis and Development</strong> at IESB.
+  Currently working as a Back-End Developer at <strong>
+<!--     <a href="https://happmobi.com.br/" target="_blank"> -->
+  Happmobi 
+<!--   </a> -->
+  </strong> while studying 
 </h3>
 
 <h4>My Stack:</h4>
